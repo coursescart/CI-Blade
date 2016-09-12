@@ -8,7 +8,7 @@ PHP:>=PHP5.4.*
 # Use
 ### 0x0.1 Set cache path:
 application/libraries/Blade.php
-`$cachePath = APPPATH . 'cache/views'; // 编译文件缓存目录`
+`$cachePath = APPPATH . 'cache/views'; // view cache directory`
 
 
 ### 0x1.1 Simple use
