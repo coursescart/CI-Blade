@@ -1,24 +1,23 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "hash": "fa31705198266dac6b9f1b801e4ac22b",
-    "content-hash": "581ef1e09f09e4773f2b1062b91dd83c",
+    "content-hash": "c6d070e1359bc86654b9ce00de9f8527",
     "packages": [
         {
             "name": "xiaoler/blade",
-            "version": "0.2.2",
+            "version": "5.4.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/XiaoLer/blade.git",
-                "reference": "c09532871e148124b1e801eec91f81249e503d8a"
+                "reference": "b3a71e2e589e31956209e7f3d5ce6f9473e63a45"
             },
             "dist": {
                 "type": "zip",
-                "url": "http://packagist.phpcomposer.com/files/XiaoLer/blade/c09532871e148124b1e801eec91f81249e503d8a.zip",
-                "reference": "c09532871e148124b1e801eec91f81249e503d8a",
+                "url": "https://api.github.com/repos/XiaoLer/blade/zipball/b3a71e2e589e31956209e7f3d5ce6f9473e63a45",
+                "reference": "b3a71e2e589e31956209e7f3d5ce6f9473e63a45",
                 "shasum": ""
             },
             "require": {
@@ -45,7 +44,7 @@
             ],
             "description": "an independent version of laravel view template - blade",
             "homepage": "http://0x1.im",
-            "time": "2015-10-24 14:05:20"
+            "time": "2017-08-23T01:10:07+00:00"
         }
     ],
     "packages-dev": [
@@ -59,7 +58,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "http://packagist.phpcomposer.com/files/mikey179/vfsStream/fc0fe8f4d0b527254a2dc45f0c265567c881d07e.zip",
+                "url": "https://api.github.com/repos/mikey179/vfsStream/zipball/fc0fe8f4d0b527254a2dc45f0c265567c881d07e",
                 "reference": "fc0fe8f4d0b527254a2dc45f0c265567c881d07e",
                 "shasum": ""
             },
@@ -77,7 +76,7 @@
                 "BSD"
             ],
             "homepage": "http://vfs.bovigo.org/",
-            "time": "2012-08-25 12:49:29"
+            "time": "2012-08-25T12:49:29+00:00"
         }
     ],
     "aliases": [],
